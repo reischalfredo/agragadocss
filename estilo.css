@@ -1,0 +1,10 @@
+
+div { background-color: antiquewhite }
+nav { background-color: antiquewhite; font-family: fantasy;}
+h1 { font-family: sans-serif, cursive;  }
+h2 { font-family: cursive; background-color: beige; }
+p { font-family: monospace }
+span { background-color: aquamarine; }
+.desordenadas { background-color: coral; display: table; }
+.ordenadas {background-color: chocolate;}
+.table { background-color: aquamarine; border-color: black; }
